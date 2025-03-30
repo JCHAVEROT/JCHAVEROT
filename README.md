@@ -11,4 +11,4 @@
 - [CVLab Unseen Spacecraft Pose Estimation](https://github.com/JCHAVEROT/bachelor-thesis)
 - [tCHu: A Java-based OOP adaptation of Ticket to Ride® (local & remote)](https://github.com/JCHAVEROT/tCHu)
 
-![marquee](https://github.com/user-attachments/assets/52258b4c-d431-464b-89a0-6a9e1b0c9295)
+<!-- ![marquee](https://github.com/user-attachments/assets/52258b4c-d431-464b-89a0-6a9e1b0c9295) -->
